@@ -19,7 +19,6 @@ steps
 
 
 screenshots from postman: 
-https://drive.google.com/open?id=1ZZvZIYrGShyKmmW5PI-YIotQhVzRgnur
-
+https://drive.google.com/drive/folders/1ZZvZIYrGShyKmmW5PI-YIotQhVzRgnur?usp=sharing
 
 

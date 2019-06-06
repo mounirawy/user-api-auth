@@ -24,6 +24,5 @@ steps to open this project in your computer
 
 
 screenshots from postman: 
-https://drive.google.com/drive/folders/1ZZvZIYrGShyKmmW5PI-YIotQhVzRgnur?usp=sharing
-
+https://drive.google.com/open?id=1ZZvZIYrGShyKmmW5PI-YIotQhVzRgnur
 

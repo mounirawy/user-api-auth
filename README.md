@@ -7,7 +7,7 @@ I used passport as it's efficient
 
 I used also the built in responses in laravel and json built in class 
 
-steps 
+steps to open this project in your computer
 
 1.just clone the rep.
 

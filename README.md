@@ -1,6 +1,9 @@
 # user-api-auth
 #laravel #passport #php
 
+these are the two tasks. the registeration and login process are already authenticized by jwt 
+and the user can't see any countries without taking a token(log in)
+
 This is a Register, Login and logout API
 
 I used passport as it's efficient 

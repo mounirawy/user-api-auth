@@ -7,6 +7,8 @@ I used passport as it's efficient
 
 I used also the built in responses in laravel and json built in class 
 
+so it returns an error message (json) or return response 200(successful) token. 
+
 steps to open this project in your computer
 
 1.just clone the rep.

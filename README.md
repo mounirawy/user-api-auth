@@ -15,4 +15,11 @@ steps
 
 3.migrate. 
 
-4.then try the requests with postman as it appears in the postmanshots folder.
+4.then try the requests with postman as it appears in the postman test google drive 
+
+
+screenshots from postman: 
+https://drive.google.com/open?id=1ZZvZIYrGShyKmmW5PI-YIotQhVzRgnur
+
+
+

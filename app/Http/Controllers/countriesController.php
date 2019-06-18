@@ -6,7 +6,7 @@ namespace App\Http\Controllers;
 use GuzzleHttp\Exception\GuzzleException;
 use GuzzleHttp\Client;
 use Unirest\Request;
-
+use function GuzzleHttp\json_encode;
 
 class countriesController extends Controller
 {
@@ -18,6 +18,22 @@ class countriesController extends Controller
           "X-RapidAPI-Key" => "19cddc8d82msh110e6c56625d8fap1bfcb5jsn538e238f8896"
         )
       );
-      return response()->json($response);
+      ///
+
+      $body = $response->body;
+
+      $bodyarr = json_decode(json_encode($body), True);
+
+      //return $body;
+
+      usort($bodyarr, function($a, $b) {
+        return $a['name'] <=> $b['name'];
+    });
+
+    $bodyjson = json_encode($bodyarr);
+
+
+       return $bodyjson;
+
     }
 }
